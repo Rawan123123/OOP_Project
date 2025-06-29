@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\obj\Debug\net8.0\Exam_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\obj\Debug\net8.0\Exam_01.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\obj\Debug\net8.0\Exam_01.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\obj\Debug\net8.0\Exam_01.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\bin\Debug\net8.0\Exam_01.exe
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\bin\Debug\net8.0\Exam_01.deps.json
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\bin\Debug\net8.0\Exam_01.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\bin\Debug\net8.0\Exam_01.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\bin\Debug\net8.0\Exam_01.pdb
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\obj\Debug\net8.0\Exam_01.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\obj\Debug\net8.0\refint\Exam_01.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\obj\Debug\net8.0\Exam_01.pdb
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\obj\Debug\net8.0\Exam_01.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\GDG\OOP\Exam_01\Exam_01\obj\Debug\net8.0\ref\Exam_01.dll
